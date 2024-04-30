@@ -1,2 +1,2 @@
 # Documentation of the New_QCM_Plus_V1 project
-qcmplus, is a platform dedicated to skills management and assessment. 
+QCMplus is a web application designed for school and exam management and assessement. The application provides comprehensive features for managing student records, class schedules, exam timetables, and grading systems. It aims to streamline administrative tasks within educational institutions, facilitating efficient organization and coordination. This project is developed using Reactjs , Java and other languages ensuring scalability and usability for educational stakeholders.
